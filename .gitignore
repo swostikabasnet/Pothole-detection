@@ -1,0 +1,28 @@
+# Environment files
+.env
+**/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets
+# *.csv
+*.zip
+*.npz
+*.tar
+*.tar.gz
+*.7z
+
+# Uploaded images in api form uploads folder
+**/uploads/*.jpg
+**/uploads/*.jpeg
+**/uploads/*.png
+
+# Logs
+*.log
+
+# IDE folders
+.vscode/
+.idea/
+.DS_Store
