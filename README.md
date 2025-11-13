@@ -12,7 +12,4 @@ It is to be integrated with GPS coordinates to help report issues to road author
 - PostgreSQL
 - OpenCV
 
-## Setup
-1. Clone this branch:
-   ```bash
-   git clone -b pothole-detection https://github.com/bleualien/ML-Project.git
+
